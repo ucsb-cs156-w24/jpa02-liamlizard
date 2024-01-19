@@ -5,7 +5,7 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-w24/jpa02-cgaucho
 
-Repo: https://ucsb-cs156-w24/STARTER-jpa02
+Repo: https://github.com/ucsb-cs156-w24/jpa02-liamlizard
 
 * TODO: Correct the "deployed at" link to app on Dokku
   then delete this TODO.  Replace it with 
